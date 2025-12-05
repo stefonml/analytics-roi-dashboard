@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,channel,product,quantity,unit_price,order_status
+1001,2024-01-03,C001,Amazon,Starter Kit,1,299.00,Completed
+1002,2024-01-03,C002,Direct,Ink Bundle,2,45.00,Completed
+1003,2024-01-04,C003,Dealer,Printer SG1000,1,599.00,Completed
+1004,2024-01-04,C004,Amazon,Ink Bundle,3,45.00,Cancelled
+1005,2024-01-05,C001,Direct,Paper Pack,4,18.00,Completed
+1006,2024-01-06,C005,Dealer,Starter Kit,1,299.00,Completed
+1007,2024-01-07,C006,Amazon,Ink Bundle,1,45.00,Completed
+1008,2024-02-01,C007,Direct,Printer SG500,1,499.00,Completed
+1009,2024-02-03,C008,Amazon,Paper Pack,5,18.00,Completed
+1010,2024-02-05,C002,Dealer,Maintenance Kit,1,39.00,Completed
