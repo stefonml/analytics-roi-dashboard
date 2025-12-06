@@ -23,16 +23,16 @@ E-commerce analytics toolkit that calculates KPIs and models the revenue impact 
 - Git, GitHub, VS Code
 
 ## Tasks / To-Do
-- [ ] Set up project structure in VS Code
-- [ ] Connect repo to GitHub
-- [ ] Implement load_data.py
-- [ ] Implement metrics.py
-- [ ] Implement scenarios.py
-- [ ] Implement visualize.py
-- [ ] Create Jupyter notebook (01_exploration.ipynb)
-- [ ] Take screenshots for docs/screenshots
-- [ ] Polish README.md
-
+- [x] Set up project structure in VS Code
+- [x] Connect repo to GitHub
+- [x] Implement load_data.py
+- [x] Implement metrics.py
+- [x] Implement scenarios.py
+- [x] Implement visualize.py
+- [x] Create Jupyter notebook (01_exploration.ipynb)
+- [x] Take screenshots for docs/screenshots
+- [x] Polish README.md0
+- [x] Add streamlit ui for analytics and ROI dashboard
 ## Notes / Decisions
 - Revenue = quantity * unit_price for completed orders only.
 - Start with simple, linear scenario modeling; refine later.
